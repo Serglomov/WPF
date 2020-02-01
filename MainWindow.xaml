@@ -9,7 +9,7 @@
        
         
        
-        Title="cat" Height="500" Width="350" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+        Title="cat" Height="500" Width="350" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None"><--можно без tiitle. так как выбран внешний вид окна безрамочный-->
     
     <Grid>
 
